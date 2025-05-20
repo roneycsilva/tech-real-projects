@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contato</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header class="banner">
+        <div class="logo-container">
+            <img width="400" height="200" src="./Img/oficina_texto.png" alt="logo oficina" class="logo"/>
+        </div>
+        <nav class="nav-container">
+            <ul>
+                <li><a href="Index.html">Home</a></li> 
+                <li><a href="Sobre.html">Sobre</a></li>
+                <li><a href="Serviços.html">Serviços</a></li>
+                <li><a href="Contato.html">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <main class="contato-container">
+        <div class="texto-contato">
+            <h1>Contato</h1>
+            <p>Estamos à disposição para qualquer dúvida! Você pode entrar em contato conosco e também enviar o seu orçamento pelo formulário online, WhatsApp ou e-mail. Fique à vontade para escolher o meio que for mais conveniente para você!</p>
+        </div>
+
+        <div class="contato-meios">
+            <div class="meio">
+                <img src="./Img/whats.jpg" alt="Foto WhatsApp" class="sobre-img"/>
+                <p><strong>WhatsApp</strong></p>
+            </div>
+            <div class="meio">
+                <img src="./Img/e-mail.jpg" alt="Foto E-mail" class="sobre-img"/>
+                <p><strong>E-mail</strong></p>
+            </div>
+        </div>
+    </main>
+
+    <section class="form-orcamento">
+        <h2>Solicite um Orçamento</h2>
+        <form id="form-contato">
+            <label for="nome" class="label-align">Nome:</label>
+            <input type="text" id="nome" name="nome" required>
+            
+            <label for="email" class="label-align">E-mail:</label>
+            <input type="email" id="email" name="email" required>
+    
+            <label for="telefone" class="label-align">Telefone:</label>
+            <input type="text" id="telefone" name="telefone" required>
+    
+            <label for="mensagem" class="label-align">Detalhes da Solicitação:</label>
+            <textarea id="mensagem" name="mensagem" rows="4" placeholder="Digite seu texto aqui..." required></textarea>
+    
+            <button type="submit">Enviar Orçamento</button>
+        </form>
+
+        
+        <p id="mensagem-envio"></p>
+    </section>
+    
+    <style>
+        .label-align {
+            display: block; 
+            margin-bottom: 5px; 
+            text-align: left; 
+        }
+
+        #mensagem-envio {
+            margin-top: 10px;
+            font-weight: bold;
+            transition: opacity 0.5s ease;
+        }
+    </style>
+
+    <footer class="footer">
+        <div class="footer-item">
+            <span>Horário de Funcionamento: 08:00 - 18:00</span>
+        </div>
+        <div class="footer-item">
+            <span>Telefone: (11) 3825-1916</span>
+        </div>
+        <div class="footer-item">
+            <span>Endereço: Rua Vitorino Carmilo, nº 1063 - Barra Funda - SP</span>
+        </div>
