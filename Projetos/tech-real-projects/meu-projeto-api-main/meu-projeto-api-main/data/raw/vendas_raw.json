@@ -1,0 +1,301 @@
+id;cliente;produto;valor;status;data;fonte
+001;Thomas, Fields and Pearson;Webcam HD v001;R$6174;PENDENTE;09/01/2024;
+002;Silva LTDA;Smartwatch v002;R$344;PENDENTE;02/02/2024;
+003;Williams PLC;Smartwatch v003;4.927;pago;18-02-2024;CSV Upload
+004;Greene, Olsen and Cook;Impressora v004;6.354;Pago;06/01/24;api
+005;Perez, Robertson and Wallace;SSD 1TB v005;-;enviado;08/01/24;api
+006;Ibarra Group;Power Bank v006;R$5166;Pago;03-01-2024;AWS
+007;Silva LTDA;Mouse Gamer v007;-;ENTREGUE;2024/01/11;Aws
+008;Williams PLC;Impressora v008;5829;pendente;04-02-2024;Manual
+009;Jackson, Smith and Mcpherson;Tablet v009;R$5342;ENTREGUE;23/02/2024;manual
+010;Moura & Filhos;HD Externo v010;R$2293;ENTREGUE;14/01/24;CSV Upload
+011;Thomas, Fields and Pearson;Capa Celular v011;R$2269;enviado;2024/02/04;CSV Upload
+012;Herrera-Sparks;Tablet v012;-;Pago;18/02/2024;api
+013;NextGen Solutions;Mesa Escritório v013;5654;cancelado;25/01/24;
+014;Phillips-Watkins;Notebook v014;1.038;ENTREGUE;2024/01/08;CSV Upload
+015;Herman, Knapp and Foster;Capa Celular v015;5.995;enviado;18-02-2024;
+016;Araujo Corp;Power Bank v016;R$4258;pendente;24-01-2024;
+017;Little PLC;Notebook v017;4986;Pago;2024/02/29;AWS
+018;Branch, Aguilar and Kramer;Notebook Gamer v018;2053;canceldo;22/02/2024;
+019;NextGen Solutions;Webcam 4K v019;R$3993;entregue;03/02/24;manual
+020;Ibarra Group;Teclado Mecânico v020;3.368;canceldo;27/02/24;api
+021;Branch, Aguilar and Kramer;Mouse Gamer v021;R$2869;PENDENTE;01/01/2024;API
+022;Branch, Aguilar and Kramer;iPhone v022;R$2806;entregue;12/02/24;manual
+023;Ibarra Group;Webcam 4K v023;-;PENDENTE;20/02/24;CSV Upload
+024;Williams PLC;Webcam HD v024;3.631;cancelado;27/01/24;API
+025;Harvey-Singh;Webcam HD v025;6.065;Pago;16-01-2024;manual
+026;Ibarra Group;Capa Celular v026;1.603;canceldo;16/01/2024;Csv Upload
+027;Ibarra Group;Webcam HD v027;494;Pago;29-02-2024;Manual
+028;Harris-Smith;Carregador USB-C v028;4023;pendente;25/01/2024;CSV Upload
+029;Phillips-Watkins;Capa Celular v029;-;pendente;2024/01/13;manual
+030;Moura & Filhos;Notebook Gamer v030;6207;canceldo;02-02-2024;API
+031;Little PLC;iPhone v031;1602;PENDENTE;26/01/2024;manual
+032;Herrera-Sparks;Notebook Gamer v032;3.534;entregue;2024/01/14;manual
+033;Phillips-Watkins;Tablet v033;5.387;canceldo;21/01/2024;API
+034;Jackson, Smith and Mcpherson;Webcam HD v034;1.846;pendente;2024/02/29;api
+035;Branch, Aguilar and Kramer;SSD 1TB v035;3.689;enviado;2024/01/01;api
+036;NextGen Solutions;Impressora v036;R$976;entregue;19-01-2024;Aws
+037;Williams PLC;Impressora v037;4220;Pago;10/02/24;AWS
+038;Moura & Filhos;Notebook v038;1.171;pendente;17/02/24;
+039;Brown, Garza and Hawkins;Smartwatch v039;4674;pendente;04/02/2024;Aws
+040;Herrera-Sparks;Webcam 4K v040;442;ENTREGUE;27/02/2024;Aws
+041;Williams PLC;Mouse Gamer v041;-;pendente;29-02-2024;Manual
+042;Herman, Knapp and Foster;Smartwatch v042;6.133;cancelado;21-02-2024;AWS
+043;Herman, Knapp and Foster;Webcam HD v043;R$417;PENDENTE;22/02/24;Aws
+044;Yoder Group;Mouse Gamer v044;R$293;cancelado;2024/01/22;api
+045;Phillips-Watkins;SSD 1TB v045;3.374;pago;2024/01/08;Manual
+046;Herrera-Sparks;Impressora v046;-;ENTREGUE;2024/02/16;CSV Upload
+047;Perez-Cole;Microfone v047;R$3255;entregue;03/01/24;API
+048;Little PLC;Teclado Mecânico v048;673;ENTREGUE;12/02/2024;AWS
+049;Little PLC;Power Bank v049;-;entregue;05-02-2024;manual
+050;Harris-Smith;Tablet v050;1.525;cancelado;05/02/2024;AWS
+051;Yoder Group;Teclado Mecânico v051;5.069;canceldo;29/01/24;manual
+052;Little PLC;Carregador USB-C v052;6108;entregue;2024/02/02;api
+053;Branch, Aguilar and Kramer;Power Bank v053;1920;pago;16/01/24;api
+054;Jackson, Smith and Mcpherson;Smartwatch v054;-;canceldo;26-01-2024;Manual
+055;Thomas, Fields and Pearson;Notebook v055;-;PENDENTE;12/01/24;API
+056;Ibarra Group;Mouse Gamer v056;-;enviado;2024/02/05;Csv Upload
+057;Perez-Cole;Microfone v057;R$4588;canceldo;2024/01/29;manual
+058;Thomas, Fields and Pearson;Impressora v058;-;PENDENTE;18/01/24;api
+059;Brown, Garza and Hawkins;Power Bank v059;2.851;enviado;06-01-2024;Manual
+060;Branch, Aguilar and Kramer;Tablet v060;R$1351;Pago;27/01/24;Aws
+061;Ibarra Group;Capa Celular v061;-;cancelado;27/02/2024;CSV Upload
+062;Smith, Howard and Smith;Notebook v062;-;cancelado;04-02-2024;Csv Upload
+063;Branch, Aguilar and Kramer;Impressora v063;-;ENTREGUE;12/02/24;Manual
+064;Jackson, Smith and Mcpherson;Webcam 4K v064;-;pago;06/01/24;Manual
+065;Jackson, Smith and Mcpherson;Mesa Escritório v065;3.205;PENDENTE;2024/01/30;Aws
+066;Knight, Stevens and Mcgee;Impressora v066;6240;canceldo;02/01/2024;Aws
+067;Branch, Aguilar and Kramer;iPhone v067;6479;PENDENTE;13/01/2024;Manual
+068;Branch, Aguilar and Kramer;Webcam 4K v068;R$5584;canceldo;2024/02/14;Aws
+069;Herman, Knapp and Foster;Webcam HD v069;6451;pago;2024/02/29;CSV Upload
+070;Knight, Stevens and Mcgee;Teclado Mecânico v070;R$4950;Pago;2024/02/14;api
+071;Herrera-Sparks;Notebook Gamer v071;3.609;Pago;2024/02/02;API
+072;Harris-Smith;Carregador USB-C v072;-;pendente;28-01-2024;
+073;Thomas, Fields and Pearson;Impressora v073;-;canceldo;2024/01/28;Aws
+074;Branch, Aguilar and Kramer;iPhone v074;-;cancelado;22/01/2024;Csv Upload
+075;Greene, Olsen and Cook;Mesa Escritório v075;3.006;ENTREGUE;2024/01/18;
+076;Lopez Group;Microfone v076;-;canceldo;05-02-2024;Csv Upload
+077;Thomas, Fields and Pearson;Carregador USB-C v077;862;PENDENTE;26-01-2024;AWS
+078;Harvey-Singh;SSD 1TB v078;4.449;cancelado;2024/02/17;Aws
+079;Brown, Garza and Hawkins;Capa Celular v079;R$2611;Pago;16-02-2024;Aws
+080;Araujo Corp;Mesa Escritório v080;-;entregue;2024/02/16;api
+081;Williams PLC;Power Bank v081;1.569;pago;15-02-2024;AWS
+082;Moura & Filhos;Notebook Gamer v082;R$2493;canceldo;07/01/2024;AWS
+083;Smith, Howard and Smith;Carregador USB-C v083;3688;entregue;01/03/24;api
+084;Silva LTDA;Tablet v084;4108;pendente;2024/01/10;api
+085;Branch, Aguilar and Kramer;Webcam HD v085;R$6362;enviado;25/01/24;Csv Upload
+086;Yoder Group;Smartwatch v086;2581;Pago;01-03-2024;manual
+087;Phillips-Watkins;iPhone v087;1366;pendente;01/01/24;Csv Upload
+088;Brown, Garza and Hawkins;Carregador USB-C v088;1.996;entregue;14/02/24;api
+089;Harvey-Singh;Mouse Gamer v089;R$5220;cancelado;08-01-2024;Manual
+090;Phillips-Watkins;Webcam 4K v090;1.459;entregue;29/01/2024;Csv Upload
+091;Brown, Garza and Hawkins;Power Bank v091;-;canceldo;06/01/2024;CSV Upload
+092;Henson-Lopez;HD Externo v092;5025;PENDENTE;13/02/2024;AWS
+093;Herrera-Sparks;Notebook Gamer v093;-;enviado;11/02/24;AWS
+094;Herman, Knapp and Foster;Smartwatch v094;-;ENTREGUE;2024/01/27;Aws
+095;Harvey-Singh;Webcam HD v095;-;entregue;12/02/24;
+096;Moura & Filhos;Capa Celular v096;2.167;Pago;19/02/24;
+097;Lopez Group;Capa Celular v097;1.636;canceldo;10/02/24;API
+098;Williams PLC;Impressora v098;-;canceldo;08/01/2024;manual
+099;Brown, Garza and Hawkins;Mesa Escritório v099;-;Pago;15/01/2024;Csv Upload
+100;Araujo Corp;Webcam 4K v100;2.490;cancelado;23/02/24;Csv Upload
+101;Branch, Aguilar and Kramer;Capa Celular v101;R$1284;enviado;17-02-2024;api
+102;Phillips-Watkins;Smartwatch v102;2864;entregue;2024/02/16;Csv Upload
+103;NextGen Solutions;Capa Celular v103;2.927;enviado;18/02/24;Csv Upload
+104;Greene, Olsen and Cook;Teclado Mecânico v104;-;PENDENTE;24/02/24;API
+105;Greene, Olsen and Cook;Carregador USB-C v105;R$3223;canceldo;03-01-2024;
+106;Herrera-Sparks;HD Externo v106;-;pago;16-02-2024;CSV Upload
+107;Thomas, Fields and Pearson;Webcam 4K v107;2.271;cancelado;11/02/2024;Aws
+108;Harvey-Singh;Tablet v108;-;enviado;03/01/2024;manual
+109;Thomas, Fields and Pearson;Power Bank v109;-;Pago;18/02/2024;Csv Upload
+110;Herman, Knapp and Foster;Power Bank v110;317;entregue;2024/01/23;CSV Upload
+111;NextGen Solutions;Mouse Gamer v111;R$3475;pendente;12/01/2024;CSV Upload
+112;Perez-Cole;Mouse Gamer v112;R$4877;canceldo;2024/02/10;Csv Upload
+113;Phillips-Watkins;Notebook v113;R$2456;Pago;2024/01/29;AWS
+114;Thomas, Fields and Pearson;Smartwatch v114;3.842;PENDENTE;25/01/24;api
+115;Branch, Aguilar and Kramer;Tablet v115;4.808;entregue;02/01/24;AWS
+116;Lopez Group;Notebook Gamer v116;4.169;PENDENTE;2024/02/08;manual
+117;Thomas, Fields and Pearson;Teclado Mecânico v117;R$2153;Pago;27/02/2024;AWS
+118;Jackson, Smith and Mcpherson;Notebook Gamer v118;R$3088;Pago;2024/02/28;Aws
+119;Henson-Lopez;Smartwatch v119;1.182;enviado;2024/02/02;Manual
+120;Phillips-Watkins;Carregador USB-C v120;2497;canceldo;05-01-2024;manual
+121;Harvey-Singh;Tablet v121;-;pago;17/01/2024;Csv Upload
+122;Perez, Robertson and Wallace;Impressora v122;5.330;Pago;13-02-2024;Csv Upload
+123;Lopez Group;HD Externo v123;5077;canceldo;2024/02/28;CSV Upload
+124;Araujo Corp;Webcam 4K v124;-;Pago;07-01-2024;
+125;NextGen Solutions;Tablet v125;-;pendente;26/02/24;api
+126;Smith, Howard and Smith;Smartwatch v126;5.754;PENDENTE;29/01/24;manual
+127;Perez, Robertson and Wallace;Webcam HD v127;4.560;pago;2024/01/26;manual
+128;Araujo Corp;Capa Celular v128;830;pago;2024/02/20;manual
+129;NextGen Solutions;Teclado Mecânico v129;R$6368;PENDENTE;22-02-2024;Aws
+130;NextGen Solutions;Notebook v130;1.164;pendente;08/01/2024;Manual
+131;Lopez Group;SSD 1TB v131;2029;pendente;17/01/2024;Manual
+132;Henson-Lopez;Smartwatch v132;4389;canceldo;2024/01/29;
+133;Herrera-Sparks;Webcam HD v133;3782;enviado;20/01/24;API
+134;Moura & Filhos;Carregador USB-C v134;3370;canceldo;15/02/24;api
+135;Silva LTDA;HD Externo v135;R$1315;entregue;2024/02/09;CSV Upload
+136;Perez-Cole;Microfone v136;-;Pago;20/02/2024;
+137;Henson-Lopez;Teclado Mecânico v137;-;ENTREGUE;22/02/24;CSV Upload
+138;Harris-Smith;Webcam HD v138;2.660;ENTREGUE;10/01/24;api
+139;Silva LTDA;iPhone v139;891;pendente;05/02/2024;
+140;Ibarra Group;HD Externo v140;3.465;cancelado;25/02/2024;AWS
+141;Perez-Cole;Power Bank v141;R$948;pendente;12/02/24;manual
+142;Araujo Corp;SSD 1TB v142;1.041;PENDENTE;21/02/24;
+143;Perez-Cole;Notebook v143;5.780;pago;2024/01/12;AWS
+144;Greene, Olsen and Cook;SSD 1TB v144;-;Pago;10/01/2024;api
+145;Henson-Lopez;Microfone v145;-;ENTREGUE;2024/01/11;AWS
+146;Henson-Lopez;HD Externo v146;6443;pago;10-01-2024;API
+147;Harvey-Singh;iPhone v147;-;canceldo;08/02/24;CSV Upload
+148;Phillips-Watkins;Teclado Mecânico v148;1.032;cancelado;2024/01/08;Csv Upload
+149;Little PLC;Power Bank v149;452;pago;2024/01/14;manual
+150;NextGen Solutions;Impressora v150;2451;canceldo;17/02/24;Manual
+151;NextGen Solutions;Tablet v151;1.985;Pago;26/01/2024;CSV Upload
+152;Lopez Group;Capa Celular v152;-;cancelado;15/02/24;AWS
+153;Araujo Corp;Tablet v153;-;ENTREGUE;06/01/24;api
+154;Branch, Aguilar and Kramer;Smartwatch v154;4904;cancelado;2024/02/25;Aws
+155;Branch, Aguilar and Kramer;HD Externo v155;6462;enviado;02-02-2024;Aws
+156;Perez, Robertson and Wallace;Webcam 4K v156;1.299;PENDENTE;12-01-2024;api
+157;Herman, Knapp and Foster;Carregador USB-C v157;-;ENTREGUE;2024/02/25;Manual
+158;Jackson, Smith and Mcpherson;iPhone v158;5.272;entregue;07/02/2024;Aws
+159;Little PLC;iPhone v159;2622;pago;2024/01/24;api
+160;Thomas, Fields and Pearson;iPhone v160;-;canceldo;07/02/2024;Csv Upload
+161;Herrera-Sparks;Teclado Mecânico v161;R$5056;pago;29/01/2024;Aws
+162;Brown, Garza and Hawkins;iPhone v162;4213;PENDENTE;15/02/24;Csv Upload
+163;Little PLC;Microfone v163;3.081;entregue;25/01/24;Aws
+164;Harvey-Singh;Notebook Gamer v164;5248;ENTREGUE;07/01/24;AWS
+165;Phillips-Watkins;Webcam 4K v165;R$767;ENTREGUE;20/01/24;Manual
+166;Perez-Cole;iPhone v166;3.185;pendente;12/02/2024;CSV Upload
+167;Little PLC;SSD 1TB v167;R$3070;PENDENTE;22/01/24;manual
+168;Branch, Aguilar and Kramer;Webcam 4K v168;1349;enviado;19/02/2024;Aws
+169;Perez-Cole;Webcam 4K v169;R$3186;pendente;23-02-2024;Csv Upload
+170;Moura & Filhos;Smartwatch v170;R$5640;canceldo;2024/02/09;Csv Upload
+171;Branch, Aguilar and Kramer;Mouse Gamer v171;1.689;canceldo;2024/01/30;CSV Upload
+172;Little PLC;Microfone v172;R$1427;entregue;04/01/24;Aws
+173;Ibarra Group;Webcam HD v173;1.121;Pago;18-02-2024;AWS
+174;Jackson, Smith and Mcpherson;Microfone v174;R$3683;canceldo;2024/02/26;API
+175;Harris-Smith;Notebook Gamer v175;R$4212;cancelado;2024/01/06;manual
+176;Lopez Group;HD Externo v176;5.424;pendente;09/01/2024;AWS
+177;Smith, Howard and Smith;Webcam 4K v177;-;pago;27/02/2024;API
+178;Phillips-Watkins;Teclado Mecânico v178;-;Pago;2024/02/19;manual
+179;Yoder Group;Webcam HD v179;-;Pago;08/01/24;
+180;Lopez Group;Microfone v180;R$2081;entregue;28/01/2024;Aws
+181;Branch, Aguilar and Kramer;Smartwatch v181;1614;enviado;24/01/2024;
+182;Ibarra Group;Microfone v182;-;canceldo;03/01/24;Aws
+183;Phillips-Watkins;Notebook v183;R$653;Pago;2024/02/19;Manual
+184;Moura & Filhos;SSD 1TB v184;R$2873;canceldo;14/02/24;Manual
+185;NextGen Solutions;iPhone v185;5945;entregue;13/01/2024;manual
+186;Moura & Filhos;HD Externo v186;-;entregue;03-01-2024;AWS
+187;Perez, Robertson and Wallace;Notebook Gamer v187;5451;ENTREGUE;28/01/24;Csv Upload
+188;Knight, Stevens and Mcgee;HD Externo v188;-;ENTREGUE;2024/02/29;api
+189;Henson-Lopez;Smartwatch v189;R$3627;enviado;2024/01/19;api
+190;Silva LTDA;HD Externo v190;-;cancelado;11/01/24;Aws
+191;Jackson, Smith and Mcpherson;Notebook Gamer v191;-;entregue;10/02/2024;api
+192;Harvey-Singh;Tablet v192;R$4303;pago;10/01/24;API
+193;NextGen Solutions;iPhone v193;5.385;ENTREGUE;25/01/2024;Manual
+194;Harvey-Singh;Capa Celular v194;3118;pendente;2024/02/03;CSV Upload
+195;Greene, Olsen and Cook;Impressora v195;R$1029;canceldo;03/02/24;
+196;Araujo Corp;Impressora v196;-;PENDENTE;2024/02/09;Csv Upload
+197;Williams PLC;Webcam HD v197;R$706;canceldo;2024/01/06;Aws
+198;Brown, Garza and Hawkins;iPhone v198;2.478;pendente;15-02-2024;Aws
+199;Little PLC;Mouse Gamer v199;R$1746;canceldo;2024/01/02;
+200;Herrera-Sparks;SSD 1TB v200;3908;Pago;20/01/24;Csv Upload
+201;Little PLC;Smartwatch v201;6380;pendente;21/01/2024;Csv Upload
+202;Jackson, Smith and Mcpherson;Microfone v202;R$1151;pendente;28/01/2024;api
+203;Little PLC;Webcam 4K v203;1.426;PENDENTE;2024/01/23;api
+204;Phillips-Watkins;Teclado Mecânico v204;R$4612;entregue;09/02/2024;
+205;Thomas, Fields and Pearson;Mesa Escritório v205;R$4856;ENTREGUE;23/02/2024;API
+206;Silva LTDA;Notebook Gamer v206;4.824;PENDENTE;19/02/24;API
+207;Smith, Howard and Smith;Power Bank v207;R$2574;cancelado;20/01/24;api
+208;Brown, Garza and Hawkins;Notebook Gamer v208;-;canceldo;2024/01/14;Manual
+209;Greene, Olsen and Cook;HD Externo v209;R$2929;ENTREGUE;02/02/2024;Aws
+210;Branch, Aguilar and Kramer;Capa Celular v210;R$2291;pendente;07/01/2024;AWS
+211;Knight, Stevens and Mcgee;Smartwatch v211;2.782;PENDENTE;18-02-2024;Csv Upload
+212;Little PLC;Capa Celular v212;4165;Pago;01/03/24;
+213;Jackson, Smith and Mcpherson;Mouse Gamer v213;1842;pago;19/01/24;Csv Upload
+214;Yoder Group;Notebook v214;1.197;ENTREGUE;18/02/24;Aws
+215;Moura & Filhos;Tablet v215;R$4771;ENTREGUE;2024/02/05;api
+216;Knight, Stevens and Mcgee;Microfone v216;4.604;Pago;09/01/2024;CSV Upload
+217;Perez, Robertson and Wallace;HD Externo v217;R$3095;PENDENTE;08/02/24;
+218;Moura & Filhos;Notebook Gamer v218;5.945;canceldo;03/02/24;Manual
+219;Perez-Cole;Microfone v219;5.122;pendente;2024/01/26;Aws
+220;Little PLC;Microfone v220;5.905;canceldo;22/02/2024;Aws
+221;Greene, Olsen and Cook;Webcam HD v221;3492;canceldo;17-01-2024;API
+222;Herrera-Sparks;Carregador USB-C v222;-;pendente;22-02-2024;API
+223;Herrera-Sparks;Webcam HD v223;3.712;cancelado;10/01/24;manual
+224;Harris-Smith;Microfone v224;6428;pendente;03-02-2024;
+225;Greene, Olsen and Cook;Carregador USB-C v225;R$3186;canceldo;2024/02/28;
+226;Perez, Robertson and Wallace;Impressora v226;R$4066;entregue;2024/02/05;manual
+227;Yoder Group;Power Bank v227;-;ENTREGUE;2024/01/31;
+228;Henson-Lopez;Impressora v228;-;cancelado;2024/02/22;Manual
+229;Yoder Group;Notebook Gamer v229;747;canceldo;2024/02/11;Csv Upload
+230;Williams PLC;Teclado Mecânico v230;4.704;pendente;07-01-2024;manual
+231;Moura & Filhos;Microfone v231;1928;Pago;2024/01/27;Csv Upload
+232;Araujo Corp;Webcam 4K v232;-;canceldo;31-01-2024;AWS
+233;Greene, Olsen and Cook;Power Bank v233;5371;PENDENTE;04/02/2024;Manual
+234;Harris-Smith;Mesa Escritório v234;R$3352;entregue;26/02/2024;API
+235;Yoder Group;Webcam HD v235;-;pendente;24/02/24;AWS
+236;Williams PLC;Webcam HD v236;-;entregue;15-02-2024;API
+237;Henson-Lopez;HD Externo v237;R$4751;pendente;09/02/24;CSV Upload
+238;Little PLC;HD Externo v238;790;pendente;09/01/24;Aws
+239;Branch, Aguilar and Kramer;Notebook v239;-;entregue;2024/01/22;API
+240;Phillips-Watkins;SSD 1TB v240;5755;canceldo;20-01-2024;CSV Upload
+241;Harvey-Singh;Microfone v241;5843;entregue;24-01-2024;manual
+242;NextGen Solutions;Carregador USB-C v242;6.225;cancelado;14/02/24;
+243;Harvey-Singh;Teclado Mecânico v243;6321;enviado;2024/01/29;api
+244;Herrera-Sparks;Webcam HD v244;R$4586;enviado;10-01-2024;Aws
+245;Little PLC;Capa Celular v245;-;Pago;27/02/24;API
+246;Jackson, Smith and Mcpherson;Webcam 4K v246;4284;enviado;2024/01/30;API
+247;Knight, Stevens and Mcgee;Impressora v247;104;pago;2024/01/28;api
+248;Ibarra Group;Notebook Gamer v248;359;cancelado;12-01-2024;CSV Upload
+249;Perez, Robertson and Wallace;Tablet v249;3754;enviado;2024/01/09;api
+250;Herman, Knapp and Foster;Tablet v250;R$1143;pago;18/02/2024;AWS
+251;Jackson, Smith and Mcpherson;Smartwatch v251;R$3207;canceldo;23-01-2024;AWS
+252;Williams PLC;Webcam HD v252;343;PENDENTE;14/01/2024;api
+253;Perez-Cole;Notebook Gamer v253;3737;PENDENTE;17/02/2024;CSV Upload
+254;Jackson, Smith and Mcpherson;Mouse Gamer v254;4501;pendente;2024/02/02;manual
+255;Henson-Lopez;HD Externo v255;6.428;PENDENTE;20-01-2024;
+256;Branch, Aguilar and Kramer;Smartwatch v256;R$2354;cancelado;05/02/24;API
+257;Perez, Robertson and Wallace;Tablet v257;-;cancelado;2024/01/10;CSV Upload
+258;Herman, Knapp and Foster;Carregador USB-C v258;R$1946;canceldo;28/02/2024;
+259;Harris-Smith;Smartwatch v259;-;PENDENTE;17-01-2024;Aws
+260;Thomas, Fields and Pearson;iPhone v260;R$3139;pago;18/01/24;API
+261;Silva LTDA;Teclado Mecânico v261;R$4913;canceldo;2024/01/14;AWS
+262;Lopez Group;Teclado Mecânico v262;-;PENDENTE;14-02-2024;CSV Upload
+263;Branch, Aguilar and Kramer;HD Externo v263;-;enviado;2024/02/11;AWS
+264;Phillips-Watkins;SSD 1TB v264;4280;canceldo;2024/02/18;manual
+265;Perez, Robertson and Wallace;HD Externo v265;R$474;pendente;2024/01/02;
+266;Herrera-Sparks;Smartwatch v266;1.707;PENDENTE;25-01-2024;Csv Upload
+267;Ibarra Group;HD Externo v267;-;canceldo;2024/01/11;Manual
+268;NextGen Solutions;Carregador USB-C v268;1587;enviado;03/01/2024;API
+269;Lopez Group;Smartwatch v269;1206;pendente;01-01-2024;
+270;Jackson, Smith and Mcpherson;SSD 1TB v270;-;canceldo;02/01/2024;
+271;Ibarra Group;Smartwatch v271;4.436;enviado;19/01/2024;
+272;Brown, Garza and Hawkins;Smartwatch v272;R$976;PENDENTE;2024/01/13;Aws
+273;Phillips-Watkins;Tablet v273;-;PENDENTE;14-02-2024;AWS
+274;Harvey-Singh;iPhone v274;5435;Pago;26/01/24;CSV Upload
+275;Ibarra Group;Carregador USB-C v275;R$5316;Pago;01/02/24;Aws
+276;Herrera-Sparks;Webcam HD v276;R$448;canceldo;18/01/2024;api
+277;Harvey-Singh;Impressora v277;4528;pendente;2024/02/29;API
+278;Williams PLC;Webcam 4K v278;6242;entregue;11-01-2024;CSV Upload
+279;Harvey-Singh;HD Externo v279;R$6289;Pago;2024/02/02;API
+280;Araujo Corp;Smartwatch v280;-;ENTREGUE;2024/01/02;Csv Upload
+281;Smith, Howard and Smith;Mouse Gamer v281;-;pendente;13/02/24;api
+282;Perez-Cole;Power Bank v282;2098;entregue;10/01/24;Manual
+283;Henson-Lopez;Tablet v283;2674;pago;2024/03/01;Csv Upload
+284;Perez, Robertson and Wallace;Impressora v284;R$1185;cancelado;29/01/24;api
+285;Lopez Group;iPhone v285;862;cancelado;2024/01/01;CSV Upload
+286;Knight, Stevens and Mcgee;iPhone v286;R$4683;cancelado;11-01-2024;AWS
+287;Yoder Group;Impressora v287;R$1295;cancelado;18/01/24;AWS
+288;Smith, Howard and Smith;iPhone v288;-;PENDENTE;30/01/2024;Manual
+289;Yoder Group;Notebook v289;-;ENTREGUE;2024/01/29;CSV Upload
+290;Thomas, Fields and Pearson;Webcam 4K v290;R$2726;canceldo;21-01-2024;CSV Upload
+291;Greene, Olsen and Cook;Power Bank v291;-;PENDENTE;21/01/24;AWS
+292;Knight, Stevens and Mcgee;SSD 1TB v292;R$4719;enviado;02/01/24;manual
+293;Jackson, Smith and Mcpherson;Power Bank v293;-;pendente;2024/02/10;manual
+294;Phillips-Watkins;Webcam 4K v294;5939;canceldo;08/02/24;CSV Upload
+295;Ibarra Group;Microfone v295;5746;ENTREGUE;14/02/2024;api
+296;Branch, Aguilar and Kramer;SSD 1TB v296;1442;cancelado;2024/02/18;CSV Upload
+297;Araujo Corp;Notebook v297;R$2219;canceldo;24/01/24;Csv Upload
+298;Harvey-Singh;Microfone v298;-;Pago;19/01/24;api
+299;Araujo Corp;Webcam 4K v299;-;PENDENTE;03/02/24;Aws
+300;Smith, Howard and Smith;Webcam HD v300;-;ENTREGUE;2024/01/05;API

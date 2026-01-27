@@ -1,0 +1,17 @@
+=== INFRAESTRUTURA BANK-RESILIENCE-2026 ===
+
+1. CLOUD AMQP (RabbitMQ)
+URL: [Cole aqui sua amqps://...]
+
+2. UPSTASH REDIS
+URL: [Cole aqui a URL do seu becoming-beagle]
+TOKEN: [Cole o Password/Token]
+
+3. UPSTASH QSTASH
+URL: [Cole a Publish URL]
+TOKEN: [Cole o Token do QStash]
+
+4. MONGO LOCAL (DBeaver)
+URI: mongodb://localhost:27017
+DATABASE: bank_db
+COLLECTION: transactions

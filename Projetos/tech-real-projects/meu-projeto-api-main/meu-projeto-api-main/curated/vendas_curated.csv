@@ -1,0 +1,301 @@
+id;cliente;produto;valor;status;data_pedido;origem
+1;Herman, Knapp and Foster;Webcam 4K;320;pago;15/01/2024;AWS
+2;Williams PLC;Notebook Gamer;6000;entregue;15/01/2024;AWS
+3;Harvey-Singh;iPhone;2500;pago;18/01/2024;CSV Upload
+4;Delgado-Stevens;Capa Celular;150;pendente;18/01/2024;Manual
+5;Delgado-Stevens;Macbook;4500;pago;20/01/2024;AWS
+6;Harvey-Singh;Cabo USB;80;cancelado;20/01/2024;API
+7;Smith, Howard and Smith;Mouse Gamer;200;entregue;22/01/2024;AWS
+8;Delgado-Russo;Teclado Mecï¿½ï¿;350;enviado;23/01/2024;CSV Upload
+9;Short and Sons;Monitor 27;1800;pago;23/01/2024;AWS
+10;Ross-Moss;Fone Bluetooth;420;entregue;25/01/2024;Manual
+11;Phillips-Bryant;HD Externo;500;pendente;25/01/2024;AWS
+12;Herman, Knapp and Foster;Smartwatch;900;pago;26/01/2024;API
+13;Carpenter-Ramsey;Notebook;5500;entregue;26/01/2024;AWS
+14;Smith, Hill and Martinez;Webcam HD;280;enviado;27/01/2024;CSV Upload
+15;Short and Sons;SSD 1TB;750;pago;27/01/2024;AWS
+16;Webb, Avery and Cook;Carregador USB-C;120;cancelado;28/01/2024;Manual
+17;Solomon, Garcia and Brown;Tablet;2200;entregue;29/01/2024;AWS
+18;Phillips-Watkins;Impressora;1300;pago;29/01/2024;API
+19;Branch, Aguilar and Kramer;Microfone;650;enviado;30/01/2024;AWS
+20;Perez-Cole;Cadeira Gamer;1200;entregue;30/01/2024;CSV Upload
+21;Solomon, Garcia and Brown;Mesa Escritï¿½ï;900;pago;31/01/2024;AWS
+22;Jordan, Edwards and Ochoa;Headset;380;pendente;01/02/2024;Manual
+23;Jordan, Edwards and Ochoa;Notebook Ultrafino;6700;entregue;01/02/2024;AWS
+24;Peterson, Curtis and Anderson;Power Bank;250;pago;02/02/2024;API
+25;Knight, Stevens and Mcgee;Monitor 27 v1;1954;enviado;20/02/2024;Manual
+26;Henson-Lopez;HD Externo v2;622;entregue;29/01/2024;Manual
+27;Wright, Carey and Taylor;Fone Bluetooth v3;619;entregue;18/02/2024;AWS
+28;Greene, Olsen and Cook;Cabo USB v4;170;pago;07/02/2024;API
+29;Herman, Knapp and Foster;Smartwatch v5;1098;cancelado;22/02/2024;CSV Upload
+30;Delgado-Russo;Carregador USB-C v6;278;pendente;10/02/2024;Manual
+31;Peterson-Guerrero;Webcam 4K v7;411;pendente;01/02/2024;API
+32;Robinson-Sherman;Microfone v8;793;cancelado;06/02/2024;AWS
+33;Harvey-Singh;Tablet v9;2221;pendente;09/02/2024;API
+34;Smith, Hill and Martinez;Power Bank v10;372;cancelado;17/02/2024;CSV Upload
+35;Brown, Anderson and Mueller;Headset v11;462;enviado;08/01/2024;API
+36;Carpenter-Ramsey;Impressora v12;1387;entregue;08/02/2024;CSV Upload
+37;Knight, Stevens and Mcgee;Macbook v13;4520;entregue;15/01/2024;CSV Upload
+38;Robinson, Cook and Wright;Mouse Gamer v14;257;pago;21/02/2024;CSV Upload
+39;Branch, Aguilar and Kramer;Power Bank v15;214;pendente;27/01/2024;CSV Upload
+40;Wright, Carey and Taylor;Impressora v16;1331;enviado;13/01/2024;CSV Upload
+41;Carpenter-Ramsey;Cabo USB v17;239;enviado;14/01/2024;Manual
+42;Jones-Gordon;Carregador USB-C v18;139;pago;25/01/2024;Manual
+43;Choi, Green and White;Macbook v19;4560;cancelado;05/02/2024;API
+44;Thomas, Fields and Pearson;HD Externo v20;479;enviado;24/01/2024;API
+45;Henson-Lopez;Headset v21;415;enviado;10/02/2024;AWS
+46;Ross-Moss;Notebook Gamer v22;6107;pendente;08/02/2024;Manual
+47;Phillips-Bryant;Power Bank v23;397;pago;04/02/2024;API
+48;Herman, Knapp and Foster;Notebook Gamer v24;5974;entregue;01/02/2024;API
+49;Phillips-Bryant;Webcam HD v25;377;pago;12/01/2024;AWS
+50;Harvey-Singh;Fone Bluetooth v26;376;pendente;08/01/2024;AWS
+51;Phillips-Bryant;Notebook Ultrafino v27;6714;pendente;05/01/2024;API
+52;Peterson, Curtis and Anderson;iPhone v28;2635;pago;29/02/2024;API
+53;Brown, Garza and Hawkins;Fone Bluetooth v29;469;cancelado;10/01/2024;API
+54;Delgado-Russo;Cabo USB v30;243;pago;10/01/2024;Manual
+55;Williams PLC;Microfone v31;726;entregue;19/01/2024;Manual
+56;Lambert, Smith and Sanchez;Mouse Gamer v32;192;enviado;04/01/2024;Manual
+57;Smith, Howard and Smith;Tablet v33;2304;enviado;15/01/2024;API
+58;Cobb, House and Rios;HD Externo v34;590;pago;18/01/2024;Manual
+59;White, Riggs and Morris;Webcam HD v35;255;pago;28/02/2024;AWS
+60;Short and Sons;Webcam HD v36;348;cancelado;23/01/2024;Manual
+61;Herrera-Sparks;Webcam HD v37;451;entregue;24/02/2024;Manual
+62;Yoder Group;Mesa Escritï¿½ï¿½ri;1027;pendente;20/01/2024;API
+63;Adams Group;HD Externo v39;499;entregue;24/02/2024;AWS
+64;Harvey-Singh;Microfone v40;735;cancelado;27/01/2024;API
+65;Brown, Garza and Hawkins;Tablet v41;2289;pago;09/02/2024;API
+66;Ross-Moss;Capa Celular v42;115;entregue;27/01/2024;AWS
+67;Mills Inc;Webcam 4K v43;295;entregue;23/01/2024;AWS
+68;Robinson, Cook and Wright;Capa Celular v44;107;enviado;24/02/2024;Manual
+69;Delgado-Stevens;iPhone v45;2571;pendente;16/02/2024;AWS
+70;Thomas, Fields and Pearson;Power Bank v46;309;enviado;01/01/2024;Manual
+71;Perez-Cole;HD Externo v47;529;enviado;27/02/2024;CSV Upload
+72;Herman, Knapp and Foster;SSD 1TB v48;828;enviado;29/01/2024;API
+73;Choi, Green and White;Capa Celular v49;248;pago;02/02/2024;Manual
+74;White, Riggs and Morris;iPhone v50;2692;entregue;18/02/2024;AWS
+75;Rich, Shepherd and Mason;Webcam 4K v51;364;pago;08/01/2024;Manual
+76;Herrera-Sparks;Headset v52;405;pendente;05/01/2024;AWS
+77;Jordan, Edwards and Ochoa;Impressora v53;1398;pendente;28/01/2024;Manual
+78;Jones-Gordon;Monitor 27 v54;1860;cancelado;23/01/2024;AWS
+79;Mills Inc;Mesa Escritï¿½ï¿½ri;902;pendente;13/01/2024;API
+80;Delgado-Russo;HD Externo v56;644;entregue;24/02/2024;AWS
+81;Branch, Aguilar and Kramer;Notebook Ultrafino v57;6774;enviado;24/01/2024;CSV Upload
+82;White, Riggs and Morris;Smartwatch v58;917;enviado;05/02/2024;Manual
+83;Delgado-Stevens;Carregador USB-C v59;166;entregue;16/02/2024;CSV Upload
+84;Harris-Smith;Capa Celular v60;173;cancelado;08/01/2024;CSV Upload
+85;Brown, Anderson and Mueller;Notebook Gamer v61;6043;entregue;28/02/2024;API
+86;Smith, Howard and Smith;Notebook Gamer v62;5990;pago;05/02/2024;AWS
+87;Ross-Moss;Fone Bluetooth v63;384;pendente;12/01/2024;API
+88;Wright, Carey and Taylor;Impressora v64;1405;enviado;29/01/2024;Manual
+89;Jordan, Edwards and Ochoa;Carregador USB-C v65;300;pago;02/01/2024;Manual
+90;Delgado-Russo;Tablet v66;2380;cancelado;21/02/2024;CSV Upload
+91;Knight, Stevens and Mcgee;Cabo USB v67;50;entregue;27/01/2024;AWS
+92;Snyder-Watson;Carregador USB-C v68;245;cancelado;17/02/2024;CSV Upload
+93;Ibarra Group;Tablet v69;2273;entregue;04/02/2024;Manual
+94;Herman, Knapp and Foster;Monitor 27 v70;1897;enviado;05/02/2024;API
+95;Lee Inc;Carregador USB-C v71;295;entregue;01/03/2024;API
+96;Snyder-Watson;Notebook Gamer v72;5987;enviado;12/01/2024;API
+97;Greene, Olsen and Cook;Headset v73;420;cancelado;28/02/2024;Manual
+98;White, Riggs and Morris;Mouse Gamer v74;224;pendente;28/01/2024;CSV Upload
+99;Harvey-Singh;Notebook v75;5619;pago;26/02/2024;Manual
+100;Phillips-Bryant;iPhone v76;2535;pago;13/02/2024;Manual
+101;Phillips-Bryant;Headset v77;378;pendente;16/02/2024;AWS
+102;Solomon, Garcia and Brown;Microfone v78;694;pendente;21/01/2024;AWS
+103;Lambert, Smith and Sanchez;Cadeira Gamer v79;1260;cancelado;25/01/2024;Manual
+104;Peterson-Guerrero;Cabo USB v80;50;enviado;23/01/2024;Manual
+105;Ibarra Group;Notebook Gamer v81;6148;entregue;30/01/2024;Manual
+106;Snyder-Watson;Headset v82;411;pago;23/02/2024;AWS
+107;Jackson, Smith and Mcpherson;Microfone v83;798;pago;28/02/2024;API
+108;Lee Inc;Power Bank v84;261;pendente;17/01/2024;Manual
+109;Phillips-Watkins;Notebook Gamer v85;5958;pago;19/02/2024;AWS
+110;Henson-Lopez;Notebook Gamer v86;6098;pago;07/01/2024;CSV Upload
+111;Mills Inc;Carregador USB-C v87;261;pago;31/01/2024;API
+112;Wright, Carey and Taylor;Tablet v88;2160;enviado;18/01/2024;CSV Upload
+113;Mills Inc;Fone Bluetooth v89;470;cancelado;26/02/2024;CSV Upload
+114;Lambert, Smith and Sanchez;Mouse Gamer v90;373;cancelado;12/01/2024;CSV Upload
+115;Rich, Shepherd and Mason;Mouse Gamer v91;241;entregue;03/02/2024;CSV Upload
+116;Ibarra Group;Power Bank v92;222;pendente;27/01/2024;API
+117;Jones-Gordon;Cadeira Gamer v93;1224;cancelado;10/02/2024;AWS
+118;Mills Inc;Microfone v94;832;enviado;27/01/2024;API
+119;Peterson, Curtis and Anderson;Notebook v95;5546;pendente;14/01/2024;AWS
+120;Ross-Moss;Macbook v96;4496;pendente;26/02/2024;CSV Upload
+121;Cantrell LLC;Macbook v97;4686;entregue;01/03/2024;AWS
+122;Harvey-Singh;Carregador USB-C v98;188;enviado;28/02/2024;AWS
+123;Perez-Cole;Teclado Mecï¿½ï¿½nic;423;entregue;24/02/2024;Manual
+124;Cantrell LLC;Impressora v100;1395;cancelado;10/02/2024;CSV Upload
+125;Yoder Group;Notebook v101;5475;cancelado;11/02/2024;API
+126;Yoder Group;Cabo USB v102;269;entregue;26/01/2024;AWS
+127;Short and Sons;Tablet v103;2168;entregue;04/02/2024;AWS
+128;Branch, Aguilar and Kramer;Notebook v104;5605;pendente;23/01/2024;API
+129;Ibarra Group;Webcam 4K v105;340;pendente;30/01/2024;Manual
+130;Phillips-Bryant;Tablet v106;2264;pendente;06/01/2024;Manual
+131;Cantrell LLC;Smartwatch v107;852;enviado;26/02/2024;Manual
+132;Williams PLC;Mesa Escritï¿½ï¿½rio;894;pago;15/02/2024;AWS
+133;Lee Inc;iPhone v109;2688;pendente;21/01/2024;Manual
+134;Smith, Hill and Martinez;Mouse Gamer v110;257;pendente;03/01/2024;Manual
+135;White, Riggs and Morris;Mesa Escritï¿½ï¿½rio;1089;enviado;04/02/2024;Manual
+136;Cantrell LLC;Smartwatch v112;1054;enviado;28/01/2024;AWS
+137;Phillips-Bryant;Monitor 27 v113;1935;cancelado;06/02/2024;CSV Upload
+138;Cobb, House and Rios;Notebook Ultrafino v114;6653;enviado;14/02/2024;CSV Upload
+139;Perez, Robertson and Wallace;Headset v115;360;pago;07/02/2024;API
+140;Cantrell LLC;Mouse Gamer v116;177;cancelado;01/03/2024;AWS
+141;Smith, Hill and Martinez;Headset v117;516;pendente;09/01/2024;API
+142;Snyder-Watson;Capa Celular v118;326;pendente;24/01/2024;AWS
+143;Webb, Avery and Cook;Notebook Ultrafino v119;6819;pendente;27/01/2024;CSV Upload
+144;Perez-Cole;Mouse Gamer v120;255;pago;21/02/2024;API
+145;Carpenter-Ramsey;Headset v121;486;entregue;12/01/2024;Manual
+146;Perez, Robertson and Wallace;Cadeira Gamer v122;1355;enviado;29/02/2024;AWS
+147;Mills Inc;Webcam HD v123;332;enviado;12/01/2024;Manual
+148;Delgado-Russo;Notebook Ultrafino v124;6863;cancelado;06/02/2024;AWS
+149;Williams PLC;Smartwatch v125;1094;pendente;06/02/2024;CSV Upload
+150;Tran-Moore;Power Bank v126;236;pendente;11/01/2024;Manual
+151;Branch, Aguilar and Kramer;Smartwatch v127;1076;pago;24/02/2024;CSV Upload
+152;Solomon, Garcia and Brown;iPhone v128;2687;pendente;23/01/2024;CSV Upload
+153;Smith, Howard and Smith;SSD 1TB v129;814;pago;26/01/2024;API
+154;Delgado-Stevens;Notebook v130;5607;pendente;05/02/2024;Manual
+155;Delgado-Russo;Fone Bluetooth v131;470;cancelado;02/01/2024;API
+156;Adams Group;HD Externo v132;565;entregue;30/01/2024;Manual
+157;Choi, Green and White;iPhone v133;2469;enviado;11/02/2024;Manual
+158;Branch, Aguilar and Kramer;Notebook Ultrafino v134;6899;pendente;25/02/2024;API
+159;Herman, Knapp and Foster;Notebook Gamer v135;6096;cancelado;01/02/2024;AWS
+160;Thomas, Fields and Pearson;Microfone v136;742;cancelado;12/02/2024;API
+161;Williams PLC;Carregador USB-C v137;193;pago;23/02/2024;API
+162;Henson-Lopez;Webcam HD v138;384;entregue;31/01/2024;AWS
+163;Short and Sons;Notebook Gamer v139;5991;enviado;05/01/2024;API
+164;Yoder Group;Notebook Ultrafino v140;6679;enviado;15/01/2024;CSV Upload
+165;Yoder Group;Notebook Ultrafino v141;6846;pago;31/01/2024;Manual
+166;Ross-Moss;Cadeira Gamer v142;1219;pendente;03/01/2024;API
+167;Robinson, Cook and Wright;Capa Celular v143;219;cancelado;01/03/2024;AWS
+168;Tran-Moore;Headset v144;461;pago;27/02/2024;CSV Upload
+169;Jordan, Edwards and Ochoa;Monitor 27 v145;1972;pendente;10/01/2024;Manual
+170;Smith, Hill and Martinez;Tablet v146;2156;cancelado;15/01/2024;Manual
+171;Perez, Robertson and Wallace;Notebook v147;5642;enviado;28/02/2024;AWS
+172;Perez, Robertson and Wallace;HD Externo v148;682;entregue;20/01/2024;CSV Upload
+173;Snyder-Watson;Tablet v149;2328;enviado;03/02/2024;Manual
+174;Perez, Robertson and Wallace;Macbook v150;4509;entregue;08/01/2024;CSV Upload
+175;Tran-Moore;Headset v151;420;pago;16/01/2024;API
+176;Velasquez-Patel;Monitor 27 v152;1932;entregue;26/02/2024;API
+177;Snyder-Watson;Notebook Ultrafino v153;6701;pago;08/01/2024;Manual
+178;Yoder Group;Headset v154;537;pago;26/01/2024;CSV Upload
+179;Phillips-Watkins;Capa Celular v155;284;enviado;05/02/2024;CSV Upload
+180;Smith, Howard and Smith;Headset v156;557;entregue;30/01/2024;Manual
+181;Phillips-Bryant;iPhone v157;2650;enviado;21/02/2024;Manual
+182;Lee Inc;Headset v158;460;cancelado;01/01/2024;Manual
+183;Smith, Hill and Martinez;Carregador USB-C v159;96;pago;02/02/2024;CSV Upload
+184;Rich, Shepherd and Mason;Cabo USB v160;87;pago;04/01/2024;Manual
+185;Little PLC;Monitor 27 v161;1953;pendente;23/02/2024;CSV Upload
+186;Wright, Carey and Taylor;Notebook Ultrafino v162;6703;pago;15/02/2024;API
+187;Harris-Smith;Cadeira Gamer v163;1252;pago;13/01/2024;AWS
+188;Phillips-Watkins;Monitor 27 v164;1792;pago;10/01/2024;AWS
+189;Robinson, Cook and Wright;Cadeira Gamer v165;1398;enviado;03/02/2024;Manual
+190;Rich, Shepherd and Mason;Microfone v166;666;pendente;02/02/2024;API
+191;Phillips-Bryant;Impressora v167;1469;cancelado;10/02/2024;CSV Upload
+192;Adams Group;iPhone v168;2616;cancelado;15/01/2024;Manual
+193;Smith, Hill and Martinez;Teclado Mecï¿½ï¿½nico;473;enviado;22/02/2024;Manual
+194;Nguyen and Sons;Impressora v170;1280;pendente;07/01/2024;Manual
+195;Perez, Robertson and Wallace;Carregador USB-C v171;71;entregue;20/01/2024;CSV Upload
+196;Thomas, Fields and Pearson;iPhone v172;2698;pendente;05/02/2024;AWS
+197;Nguyen and Sons;Notebook Gamer v173;5988;enviado;10/02/2024;CSV Upload
+198;Harris-Smith;Notebook v174;5639;pago;01/01/2024;Manual
+199;Williams PLC;Mouse Gamer v175;393;pendente;01/02/2024;CSV Upload
+200;Peterson, Curtis and Anderson;Monitor 27 v176;1842;entregue;05/02/2024;API
+201;Rich, Shepherd and Mason;Mesa Escritï¿½ï¿½rio;951;entregue;23/01/2024;Manual
+202;Phillips-Watkins;Headset v178;419;pago;04/02/2024;CSV Upload
+203;Mills Inc;Webcam HD v179;446;cancelado;25/02/2024;AWS
+204;Cobb, House and Rios;Capa Celular v180;269;enviado;07/01/2024;CSV Upload
+205;Cobb, House and Rios;Fone Bluetooth v181;449;pendente;24/02/2024;CSV Upload
+206;Yoder Group;Capa Celular v182;164;cancelado;20/01/2024;API
+207;Perez-Cole;Mesa Escritï¿½ï¿½rio;1035;pendente;20/01/2024;Manual
+208;Phillips-Watkins;Fone Bluetooth v184;491;enviado;08/02/2024;Manual
+209;Brown, Garza and Hawkins;Notebook Gamer v185;6163;enviado;13/02/2024;CSV Upload
+210;Mills Inc;Notebook Ultrafino v186;6898;enviado;16/01/2024;Manual
+211;Adams Group;Capa Celular v187;236;entregue;27/02/2024;CSV Upload
+212;Webb, Avery and Cook;Power Bank v188;220;pendente;24/01/2024;Manual
+213;Thomas, Fields and Pearson;Mesa Escritï¿½ï¿½rio;1052;entregue;31/01/2024;Manual
+214;Choi, Green and White;Microfone v190;647;enviado;20/01/2024;CSV Upload
+215;Little PLC;Power Bank v191;399;pendente;10/02/2024;API
+216;Short and Sons;Power Bank v192;377;entregue;19/02/2024;CSV Upload
+217;Thomas, Fields and Pearson;Microfone v193;842;enviado;31/01/2024;CSV Upload
+218;Thomas, Fields and Pearson;Notebook Gamer v194;6102;pago;23/02/2024;CSV Upload
+219;Harvey-Singh;Notebook Ultrafino v195;6796;pendente;17/02/2024;CSV Upload
+220;Delgado-Russo;Fone Bluetooth v196;573;entregue;01/03/2024;AWS
+221;Delgado-Russo;Cabo USB v197;138;cancelado;21/02/2024;AWS
+222;Smith, Hill and Martinez;Power Bank v198;236;enviado;22/02/2024;API
+223;Webb, Avery and Cook;Mouse Gamer v199;377;pendente;29/01/2024;API
+224;Delgado-Russo;Capa Celular v200;253;enviado;05/02/2024;Manual
+225;Ibarra Group;Mouse Gamer v201;193;pendente;05/02/2024;Manual
+226;Jordan, Edwards and Ochoa;SSD 1TB v202;949;entregue;01/03/2024;API
+227;Phillips-Watkins;HD Externo v203;489;entregue;24/01/2024;Manual
+228;Wright, Carey and Taylor;Macbook v204;4482;enviado;19/01/2024;API
+229;Ibarra Group;Fone Bluetooth v205;537;pendente;16/01/2024;API
+230;Perez-Cole;Teclado Mecï¿½ï¿½nico;443;pago;15/02/2024;CSV Upload
+231;Herman, Knapp and Foster;iPhone v207;2561;pendente;26/02/2024;API
+232;White, Riggs and Morris;Cabo USB v208;212;enviado;18/02/2024;AWS
+233;Choi, Green and White;Carregador USB-C v209;132;enviado;25/01/2024;API
+234;Wright, Carey and Taylor;Notebook Ultrafino v210;6740;enviado;05/02/2024;AWS
+235;Smith, Howard and Smith;Tablet v211;2249;pendente;02/01/2024;Manual
+236;Cantrell LLC;Webcam HD v212;275;pendente;27/02/2024;API
+237;Harris-Smith;Mouse Gamer v213;235;entregue;08/01/2024;AWS
+238;Knight, Stevens and Mcgee;Mouse Gamer v214;324;pago;16/02/2024;API
+239;Robinson-Sherman;Cabo USB v215;50;entregue;24/02/2024;Manual
+240;Jordan, Edwards and Ochoa;Webcam HD v216;417;entregue;29/02/2024;API
+241;Robinson-Sherman;Fone Bluetooth v217;475;enviado;24/01/2024;AWS
+242;Henson-Lopez;Microfone v218;797;pago;18/02/2024;Manual
+243;Brown, Anderson and Mueller;Macbook v219;4498;pendente;15/01/2024;API
+244;Herrera-Sparks;Cadeira Gamer v220;1345;pendente;12/01/2024;CSV Upload
+245;Velasquez-Patel;Fone Bluetooth v221;473;pago;09/01/2024;API
+246;Webb, Avery and Cook;Smartwatch v222;1014;enviado;16/01/2024;AWS
+247;Nguyen and Sons;Mesa Escritï¿½ï¿½rio;918;entregue;13/01/2024;API
+248;Yoder Group;Microfone v224;833;entregue;29/02/2024;AWS
+249;Lee Inc;Smartwatch v225;1036;enviado;20/01/2024;AWS
+250;Wright, Carey and Taylor;Cabo USB v226;105;entregue;29/02/2024;API
+251;Herrera-Sparks;Cabo USB v227;223;pendente;08/01/2024;API
+252;Harris-Smith;Carregador USB-C v228;110;pago;16/02/2024;AWS
+253;Brown, Garza and Hawkins;iPhone v229;2641;cancelado;02/01/2024;API
+254;Phillips-Bryant;Cabo USB v230;231;entregue;12/02/2024;API
+255;Ibarra Group;Mesa Escritï¿½ï¿½rio;956;enviado;09/01/2024;CSV Upload
+256;Adams Group;Webcam 4K v232;504;pago;08/02/2024;CSV Upload
+257;Lee Inc;Notebook v233;5550;cancelado;15/02/2024;AWS
+258;Carpenter-Ramsey;iPhone v234;2473;pago;13/02/2024;AWS
+259;Peterson-Guerrero;Notebook v235;5609;entregue;08/02/2024;API
+260;Velasquez-Patel;Monitor 27 v236;1782;pendente;06/01/2024;Manual
+261;Perez, Robertson and Wallace;Power Bank v237;285;pago;10/02/2024;Manual
+262;Jones-Gordon;Carregador USB-C v238;298;pendente;17/01/2024;Manual
+263;Greene, Olsen and Cook;Tablet v239;2153;pendente;18/02/2024;CSV Upload
+264;Branch, Aguilar and Kramer;Headset v240;568;enviado;06/01/2024;CSV Upload
+265;Smith, Howard and Smith;Webcam 4K v241;322;enviado;01/03/2024;CSV Upload
+266;Jones-Gordon;Teclado Mecï¿½ï¿½nico;354;entregue;12/02/2024;Manual
+267;Jordan, Edwards and Ochoa;Smartwatch v243;893;pago;31/01/2024;AWS
+268;Rich, Shepherd and Mason;Notebook Gamer v244;6173;enviado;09/02/2024;AWS
+269;Snyder-Watson;HD Externo v245;494;enviado;29/01/2024;AWS
+270;Lee Inc;Notebook Gamer v246;6116;pendente;28/02/2024;AWS
+271;Thomas, Fields and Pearson;Smartwatch v247;867;cancelado;26/01/2024;AWS
+272;Delgado-Stevens;Impressora v248;1302;cancelado;07/01/2024;API
+273;Greene, Olsen and Cook;Notebook Ultrafino v249;6848;entregue;03/02/2024;Manual
+274;Rich, Shepherd and Mason;Notebook v250;5620;pago;20/01/2024;CSV Upload
+275;Perez, Robertson and Wallace;Capa Celular v251;294;cancelado;01/01/2024;AWS
+276;Herman, Knapp and Foster;Notebook v252;5545;cancelado;23/02/2024;AWS
+277;Williams PLC;Mesa Escritï¿½ï¿½rio;885;pendente;24/02/2024;CSV Upload
+278;Herman, Knapp and Foster;Webcam 4K v254;302;entregue;20/01/2024;Manual
+279;Branch, Aguilar and Kramer;iPhone v255;2620;entregue;13/01/2024;Manual
+280;Phillips-Watkins;Smartwatch v256;881;cancelado;25/01/2024;CSV Upload
+281;Yoder Group;Impressora v257;1490;cancelado;29/01/2024;AWS
+282;Greene, Olsen and Cook;Microfone v258;745;enviado;03/01/2024;Manual
+283;Perez, Robertson and Wallace;Notebook Gamer v259;6021;pendente;09/01/2024;Manual
+284;Knight, Stevens and Mcgee;Capa Celular v260;162;cancelado;15/01/2024;API
+285;Harris-Smith;Power Bank v261;391;pago;19/01/2024;API
+286;Jackson, Smith and Mcpherson;Teclado Mecï¿½ï¿½nico;335;entregue;23/01/2024;Manual
+287;Smith, Howard and Smith;HD Externo v263;526;pendente;07/01/2024;Manual
+288;Harris-Smith;Tablet v264;2312;pago;27/01/2024;CSV Upload
+289;Little PLC;Microfone v265;616;cancelado;11/01/2024;Manual
+290;Ibarra Group;Carregador USB-C v266;230;entregue;22/02/2024;API
+291;Herrera-Sparks;Webcam 4K v267;467;cancelado;17/02/2024;CSV Upload
+292;Little PLC;Power Bank v268;395;pendente;22/01/2024;AWS
+293;Perez-Cole;Capa Celular v269;216;pendente;31/01/2024;API
+294;Thomas, Fields and Pearson;SSD 1TB v270;817;enviado;21/01/2024;Manual
+295;Greene, Olsen and Cook;Impressora v271;1496;enviado;29/01/2024;API
+296;Phillips-Watkins;Notebook Gamer v272;6044;entregue;07/01/2024;AWS
+297;Harvey-Singh;Notebook v273;5471;entregue;25/02/2024;AWS
+298;Branch, Aguilar and Kramer;Impressora v274;1457;enviado;20/02/2024;Manual
+299;Brown, Garza and Hawkins;iPhone v275;2642;pendente;23/02/2024;Manual
+300;Henson-Lopez;Webcam HD v276;286;pago;11/02/2024;API
